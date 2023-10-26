@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will be showing my SIGGRAPH Paper Demo at [ICCP](https://iccp2023.iccp-conference.org/) 2023
+ I will present my [SIGGRAPH Paper Demo](https://youtu.be/GicDHpDFlq0) at [ICCP 2023](https://iccp2023.iccp-conference.org/).
