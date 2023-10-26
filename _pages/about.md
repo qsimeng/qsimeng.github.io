@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an incoming Lecturer (Assistant Professor) at [Swansea University's](https://www.swansea.ac.uk/) [Visual Computing Group](https://www.swansea.ac.uk/compsci/research-and-impact/visual-interactive-computing/), UK. My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, and artificial intelligence. My particular focus is on addressing hardware and software co-design challenges within this domain.
 
-I hold two Bachelor degrees from University of Birmingham, UK and Harbin Institute of Technology, China in July, 2016. After that, I joined [KAUST](https://www.kaust.edu.sa/en/) as a Master/PhD student. I earned my Ph.D. degree at Computational Imaging Lab under the supervision of [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct. 2023.
+I earned my Ph.D. degree at [KAUST's](https://www.kaust.edu.sa/en/) Computational Imaging Lab under the supervision of [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct. 2023.
 
 
 Contact me if you are seeking help within my research area or are interested in being a collaborator.
