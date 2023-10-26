@@ -1,5 +1,5 @@
 ---
-layout: Simeng Qiu
+layout:
 title: Simeng Qiu
 permalink: /
 subtitle: 
