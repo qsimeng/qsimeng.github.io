@@ -24,3 +24,4 @@ I am an incoming Lecturer (Assistant Professor) at Swansea University, UK. My re
 I earned my Ph.D. degree at [KAUST](https://www.kaust.edu.sa/en/)'s Computational Imaging Lab under the supervision of [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct. 2023.
 
 Contact me if you are seeking help within my research area or are interested in being a collaborator.
+
