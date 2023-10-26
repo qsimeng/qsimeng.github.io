@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will be presenting my [MoiréTag](https://dl.acm.org/doi/abs/10.1145/3588432.3591538) paper at SIGGRAPH 2023 in Los Angeles.
+ I will be presenting my [MoiréTag](https://dl.acm.org/doi/abs/10.1145/3588432.3591538) paper at [SIGGRAPH 2023](https://s2023.siggraph.org/) in Los Angeles.
