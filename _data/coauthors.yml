@@ -1,16 +1,16 @@
-"Wolfgang":
-  - firstname: ["Wolfgang", "Heidrich"]
+"Heidrich":
+  - firstname: ["Wolfgang"]
     url: https://scholar.google.com/citations?hl=en&user=IQSbom0AAAAJ&view_op=list_works&sortby=pubdate
 
-"Hadi":
-  - firstname: ["Hadi", "Amata"]
+"Amata":
+  - firstname: ["Hadi"]
     url: https://scholar.google.com/citations?user=kFEjhpsAAAAJ&hl=en
 
-"Rui":
-  - firstname: ["Rui", "Li"]
+"Li":
+  - firstname: ["Rui"]
     url: https://scholar.google.com.hk/citations?user=P6gAcSsAAAAJ&hl=zh-CN
 
-"Qiang": 
-  - firstname: ["Qiang", "Fu"]
+"Fu": 
+  - firstname: ["Qiang"]
     url: https://fuqiangx.github.io/
 
