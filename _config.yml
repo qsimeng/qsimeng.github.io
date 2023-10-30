@@ -268,8 +268,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Simeng]
-  first_name: [Qiu]
+  last_name: [Qiu]
+  first_name: [Simeng]
 
   style: apa
   locale: en
