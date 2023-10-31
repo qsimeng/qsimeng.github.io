@@ -1,4 +1,3 @@
-![image](https://github.com/qsimeng/qsimeng.github.io/assets/39697941/55a263f3-865a-4d88-80ea-08076780874e)---
 layout: about
 title: Simeng Qiu
 permalink: /
