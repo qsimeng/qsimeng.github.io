@@ -2,7 +2,7 @@
 layout: about
 title: Simeng Qiu
 permalink: /
-subtitle: Incoming Lecturer (Assistant Professor) at Swansea University, UK.
+subtitle: Incoming Lecturer (Assistant Professor) at [Swansea University](https://www.swansea.ac.uk/), UK.
 
 profile:
   align: right
@@ -16,8 +16,6 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-I'm an incoming Lecturer (Assistant Professor) at [Swansea University](https://www.swansea.ac.uk/), UK. 
 
 I earned my Ph.D. degree at [KAUST](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct 2023. My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and artificial intelligence (AI). It involves co-designing hardware and software for solving complex imaging challenges.
 
