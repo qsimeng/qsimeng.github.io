@@ -19,7 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I'm an incoming Lecturer (Assistant Professor) at [Swansea University, UK](https://www.swansea.ac.uk/). 
 
-I earned my Ph.D. degree at [KAUST](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) on Oct 2023. My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and artificial intelligence (AI). It involves co-designing hardware and software for solving complex imaging challenges.
+I earned my Ph.D. degree at [KAUST](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct 2023. My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and artificial intelligence (AI). It involves co-designing hardware and software for solving complex imaging challenges.
 
-I am actively looking for enthusiastic Master Students and Visiting students who are motivied to work on emerging research topics in Computational Imaging, Computer Graphics, Computer Vision or related topics. Contact me if you are seeking help within my research area or are interested in being a collaborator.
-
+I am actively looking for enthusiastic Master's students and visiting scholars who are motivated to work on emerging research topics in Computational Imaging, Computer Graphics, Computer Vision, or related fields. Please contact me if you need assistance within my research area or are interested in collaborating.
