@@ -43,13 +43,15 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h2 style="font-size: 20px;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">{{ "news" | capitalize }}</a></h2>
+            <h2 style="font-size: 20px; font-weight: bold;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">{{ "news" | capitalize }}</a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
+
+          <hr style="margin: 20px 0; border: 1px solid #000;">
               
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2 style="font-size: 20px;"><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">{{ "publications" | capitalize }}</a></h2>    
+            <h2 style="font-size: 20px; font-weight: bold;"><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">{{ "publications" | capitalize }}</a></h2>    
             {%- include selected_papers.html %}
           {%- endif %}
               
