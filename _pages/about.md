@@ -1,4 +1,4 @@
----
+![image](https://github.com/qsimeng/qsimeng.github.io/assets/39697941/55a263f3-865a-4d88-80ea-08076780874e)---
 layout: about
 title: Simeng Qiu
 permalink: /
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: simeng.qiu@kaust.edu.sa
 
 
 news: true  # includes a list of news items
@@ -17,9 +17,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm an incoming Lecturer (Assistant Professor) at [Swansea University](https://www.swansea.ac.uk/), UK. 
+I'm an incoming Lecturer (Assistant Professor) at [Swansea University, UK](https://www.swansea.ac.uk/). 
 
-I earned my Ph.D. degree at [KAUST's](https://www.kaust.edu.sa/en/) Computational Imaging Lab under the supervision of [Prof. Wolfgang Heidrich](https://vccimaging.org/People/heidriw/) in Oct. 2023. My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, and artificial intelligence. My particular focus is on addressing hardware and software co-design challenges within this domain. 
+I earned my Ph.D. degree at [KAUST](https://www.kaust.edu.sa/en/) under the supervision of Prof. [Wolfgang Heidrich](https://vccimaging.org/People/heidriw/). My research centers on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and artificial intelligence (AI). It involves co-designing hardware and software for solving complex imaging challenges.
 
 Contact me if you are seeking help within my research area or are interested in being a collaborator.
 
