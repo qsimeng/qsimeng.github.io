@@ -2,7 +2,7 @@
 layout: about
 title: Simeng Qiu
 permalink: /
-subtitle:
+subtitle: Incoming Lecturer (Assistant Professor) at Swansea University, UK.
 
 profile:
   align: right
