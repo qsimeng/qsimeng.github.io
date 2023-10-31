@@ -41,6 +41,8 @@ layout: default
             {{ content }}
           </div>
 
+          <hr style="margin: 20px 0; border: 0.4px solid lightgray;"> 
+              
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2 style="font-size: 20px; font-weight: bold;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">{{ "news" | capitalize }}</a></h2>
