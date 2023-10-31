@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will be presenting my [SIGGRAPH Paper Demo](https://youtu.be/GicDHpDFlq0) at [ICCP 2023](https://iccp2023.iccp-conference.org/) in Madison, Wisconsin, US.
+ I will be presenting my [SIGGRAPH Paper Demo](https://youtu.be/GicDHpDFlq0) at [ICCP 2023](https://iccp2023.iccp-conference.org/) in Madison, Wisconsin, USA.
