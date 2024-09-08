@@ -9,11 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: |
-    **Office Number**: 221, Computational Foundry, Swansea University Bay Campus  
-    **Email**: simeng [dot] qiu [at] swansea [dot] ac [dot] uk
 
-  
-  
+ 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
