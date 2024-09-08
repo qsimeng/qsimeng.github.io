@@ -2,7 +2,7 @@
 layout: about
 title: Simeng Qiu
 permalink: /
-subtitle: Lecturer (Assistant Professor) at Swansea University, UK.
+subtitle: [Lecturer (Assistant Professor)](https://www.swansea.ac.uk/staff/simeng.qiu/) at Swansea University, UK.
 
 profile:
   align: right
