@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received Higher Education Research Capital (HERC) Funding and will be establishing the Laboratory soon!
+I received Higher Education Research Capital (HERC) Funding!
