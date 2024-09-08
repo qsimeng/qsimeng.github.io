@@ -8,7 +8,11 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info: >
+    <p>Office 221, Computational Foundry</p>
+    <p>Email: simeng [dot] qiu [at] swansea [dot] ac [dot] uk</p>
+
+  
   
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
