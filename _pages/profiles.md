@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
+title: People
 description: Welcome to Computational Imaging Lab
 nav: true
 nav_order: 6
