@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: CS-165 Introduction to Data Science (Jan 2025 to April 2025)
+description: CS-165 Introduction to Data Science
 nav: true
 nav_order: 5
 ---
