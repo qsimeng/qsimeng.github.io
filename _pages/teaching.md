@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: CS-165 Introduction to Data Science
 nav: true
 nav_order: 5
