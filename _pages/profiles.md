@@ -1,4 +1,4 @@
-<img width="733" alt="Screenshot 2024-09-15 at 13 36 08" src="https://github.com/user-attachments/assets/d089c1a5-d83f-4ca5-8628-c3d0f6fe009f">---
+---
 layout: profiles
 permalink: /people/
 title: People
