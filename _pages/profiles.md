@@ -5,7 +5,6 @@ title: People
 description: Computational Imaging Group
 nav: true
 nav_order: 6
-
 ---
 
 Undergraduate Students:
