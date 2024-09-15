@@ -9,8 +9,8 @@ nav_order: 6
 profiles:
 
   - align: left
-    description: Emma Smith, since Oct 2024.
-
+    content: Emma Smith, since Oct 2024.
+    
   - align: left
     description: Ben Summerill, since Oct 2024.
 
