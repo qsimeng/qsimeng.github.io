@@ -11,7 +11,7 @@ profiles:
     image: prof_pic.jpg
     content: simeng.md
     image_circular: false # crops the image to make it circular
-    - align: left
+  - align: left
     # image: prof_pic.jpg
     content: wenxing.md
     image_circular: false # crops the image to make it circular
