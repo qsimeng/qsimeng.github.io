@@ -31,6 +31,14 @@ profiles:
     # image: prof_pic.jpg
     content: emma.md
     image_circular: false # crops the image to make it circular
+  - align: left
+    # image: prof_pic.jpg
+    content: anish.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    # image: prof_pic.jpg
+    content: mariam.md
+    image_circular: false # crops the image to make it circular
     
 ---
 
