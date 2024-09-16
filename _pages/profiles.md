@@ -15,7 +15,7 @@ profiles:
     # image: prof_pic.jpg
     content: wenxing.md
     image_circular: false # crops the image to make it circular
-  - align: left
+    align: left
     # image: prof_pic.jpg
     content: xiaohao.md
     image_circular: false # crops the image to make it circular
@@ -23,19 +23,19 @@ profiles:
     # image: prof_pic.jpg
     content: ben.md
     image_circular: false # crops the image to make it circular
-  - align: left
+    align: left
     # image: prof_pic.jpg
     content: oakley.md
     image_circular: false # crops the image to make it circular
-  - align: left
+    align: left
     # image: prof_pic.jpg
     content: emma.md
     image_circular: false # crops the image to make it circular
-  - align: left
+    align: left
     # image: prof_pic.jpg
     content: anish.md
     image_circular: false # crops the image to make it circular
-  - align: left
+    align: left
     # image: prof_pic.jpg
     content: mariam.md
     image_circular: false # crops the image to make it circular
