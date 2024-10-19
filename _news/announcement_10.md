@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received Higher Education Research Captical (HERC) Funding!
+I received Higher Education Research Capital (HERC) Funding!
