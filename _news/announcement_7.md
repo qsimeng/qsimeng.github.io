@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Best poster shortlist at [ICCP 2024](https://iccp-conference.org/iccp2024/) in [EPFL](https://www.epfl.ch/en/), Switzerland.
+Best poster shortlist at [International Conference on Computational Photography (ICCP) 2024](https://iccp-conference.org/iccp2024/) in [EPFL](https://www.epfl.ch/en/), Switzerland.
