@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will be giving a talk at [UCL](https://www.ucl.ac.uk/) [High-Beams-Seminars](https://complightlab.com/outreach/)!
+ My pleasure to give a talk at [UCL](https://www.ucl.ac.uk/) [High-Beams-Seminars](https://complightlab.com/outreach/)!
