@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- I will be giving a talk at [Amazon Cambridge Development Center](https://amazon.jobs/en/landing_pages/Cambridge)!
+ My pleasure to give a talk at [Amazon Cambridge Development Center](https://amazon.jobs/en/landing_pages/Cambridge)!
