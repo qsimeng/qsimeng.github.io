@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted by [Optica](https://opg.optica.org/optica/home.cfm)!
+One paper has been accepted by one of the top Physics Journals for Optics, [Optica](https://opg.optica.org/optica/home.cfm)!
 
