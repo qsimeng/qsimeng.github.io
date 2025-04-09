@@ -2,7 +2,7 @@
 layout: page
 permalink: /Laboratory/
 title: Lab
-description: I will be establishing the Laboratory soon!
+description: The Lab has been established.
 nav: true
 nav_order: 5
 ---
