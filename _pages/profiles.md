@@ -13,6 +13,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     
   - align: right
+    image: haolong.png
     content: haolong.md
     image_circular: false # crops the image to make it circular
 
