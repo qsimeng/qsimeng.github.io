@@ -16,6 +16,8 @@ profiles:
     image: haolong.png
     content: haolong.md
     image_circular: false # crops the image to make it circular
+    width: 150
+    height: 150
 
   - align: left
     # image: prof_pic.jpg
