@@ -8,7 +8,7 @@ nav_order: 6
 
 profiles:
   - align: right
-    image: prof_pic.jpg
+    image: image.png
     content: simeng.md
     image_circular: false # crops the image to make it circular
     
