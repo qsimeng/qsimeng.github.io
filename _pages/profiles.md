@@ -13,7 +13,9 @@ profiles:
     image_circular: false # crops the image to make it circular
     
   - align: right
-    image: haolong.png
+    <p align="right">
+    <img src="/assets/img/haolong.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;">
+    </p>
     content: haolong.md
     image_circular: false # crops the image to make it circular
 
