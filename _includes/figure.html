@@ -1,5 +1,10 @@
 {%- assign img_path = include.path | remove: ".jpg" | remove: ".jpeg" | remove: ".png" | remove: ".tiff" -%}
 
+{%- assign final_class = include.class -%}
+{%- if include.image_circular -%}
+  {%- assign final_class = "circular-img" -%}
+{%- endif -%}
+
 <figure>
 
   <picture>
@@ -16,7 +21,7 @@
     <!-- Fallback to the original file -->
     <img
       src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
-      {% if include.class %}class="{{ include.class }}"{% endif %}
+      {% if final_class %}class="{{ final_class }}"{% endif %}
       {% if include.width %}width="{{ include.width }}"{% else %}width="auto"{% endif %}
       {% if include.height %}height="{{ include.height }}"{% else %}height="auto"{% endif %}
       {% if include.min-width %}min-width="{{ include.min-width }}"{% endif %}
