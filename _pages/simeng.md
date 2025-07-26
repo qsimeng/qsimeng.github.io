@@ -1,6 +1,6 @@
 Group Leader: [Simeng Qiu](https://qsimeng.github.io/)
 
-Lecturer., Computer Science Department, Swansea University, UK, since 2024.
+Lecturer in Computational Imaging, Swansea University, UK, since 2024.
 
 Ph.D., Electrical Computer Engineering, KAUST, Saudi Arabia, 2023.
 
