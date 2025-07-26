@@ -1,7 +1,7 @@
 Haolong Wang
 
-Ph.D Student, since April 2025.
+Ph.D.,Computer Science, Swansea University, UK, since April 2025.
 
-MPhil., University of Cambridge, UK.
+MPhil., Advanced Computer Science, University of Cambridge, UK, 2023.
 
-B.Eng., University College London (UCL), UK.
+B.Eng., Electronic and Electrical Engineering, University College London (UCL), UK, 2022.
