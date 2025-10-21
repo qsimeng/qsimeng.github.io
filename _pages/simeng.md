@@ -1,6 +1,6 @@
 Group Leader: [Simeng Qiu](https://qsimeng.github.io/)
 
-Lecturer in Computational Imaging, [Swansea University](https://www.swansea.ac.uk/), UK, since 2024.
+Lecturer in Computational Imaging, [Swansea University](https://www.swansea.ac.uk/), since 2024.
 
 Ph.D., Electrical Computer Engineering, [KAUST](https://www.kaust.edu.sa/en/), 2023.
 
