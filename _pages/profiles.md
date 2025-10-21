@@ -21,6 +21,11 @@ profiles:
 
   - align: left
     # image: prof_pic.jpg
+    content: /student/xa.md
+    image_circular: false # crops the image to make it circular
+    
+  - align: left
+    # image: prof_pic.jpg
     content: xa.md
     image_circular: false # crops the image to make it circular
 
@@ -29,12 +34,12 @@ profiles:
     content: ja.md
     image_circular: false # crops the image to make it circular
 
-    - align: left
+  - align: left
     # image: prof_pic.jpg
     content: ya.md
     image_circular: false # crops the image to make it circular
     
-    - align: left
+  - align: left
     # image: prof_pic.jpg
     content: me.md
     image_circular: false # crops the image to make it circular
