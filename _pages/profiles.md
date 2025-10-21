@@ -18,11 +18,6 @@ profiles:
     image_circular: false # crops the image to make it circular
     width: 125
     height: 125
-
-  - align: left
-    # image: prof_pic.jpg
-    content: /student/xa.md
-    image_circular: false # crops the image to make it circular
     
   - align: left
     # image: prof_pic.jpg
