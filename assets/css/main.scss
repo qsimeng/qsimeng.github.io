@@ -22,11 +22,11 @@ $max-content-width: {{ site.max_width }};
 
 body.layout--profiles .profile img,
 body.layout--profiles .profile .img-fluid {
-  width: 100px !important;      /* 你想要的尺寸 */
+  width: 100px !important;      
   height: 100px !important;
-  max-width: none !important;    /* 盖掉 .img-fluid 的 max-width:100% */
+  max-width: none !important;    
   object-fit: cover;
-  border-radius: 50% !important; /* 要方形改成 0 */
+  border-radius: 0 !important; 
   display: block;
   margin: 0;
 }
