@@ -6,16 +6,6 @@ description: Computational Imaging Group
 nav: true
 nav_order: 6
 
-<style>
-/* 只作用于当前页面 */
-.profile-image{
-  width: 80px !important;   
-  height: 80px !important;
-  object-fit: cover;
-  border-radius: 50%;       
-}
-</style>
-
 profiles:
   - align: right
     image: image.png
@@ -89,4 +79,11 @@ profiles:
     
 ---
 
-
+<style>
+.profile-image{
+  width: 80px !important;   
+  height: 80px !important;
+  object-fit: cover;
+  border-radius: 50%;       
+}
+</style>
