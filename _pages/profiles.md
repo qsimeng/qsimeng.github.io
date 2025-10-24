@@ -18,8 +18,7 @@ profiles:
     image: hao.png
     content: haolong.md
     image_circular: false # crops the image to make it circular
-    width: 80
-    height: 80
+    image_style: "width: 80px; height: 80px;"
     
   - align: left
     # image: prof_pic.jpg
