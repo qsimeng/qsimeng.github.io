@@ -28,3 +28,7 @@ $max-content-width: {{ site.max_width }};
   display: block;
   margin: 0 auto;
 }
+
+.layout--profiles hr {
+  display: none !important;
+}
