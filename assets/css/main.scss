@@ -21,10 +21,10 @@ $max-content-width: {{ site.max_width }};
 
 .profile img,
 .profile .img-fluid {
-  width: 80px !important;      
-  height: 80px !important;
+  width: 100px !important;      
+  height: 100px !important;
   object-fit: cover;           
-  border-radius: 50% !important;
+  border-radius: 0 !important;
   display: block;
   margin: 0 auto;
 }
