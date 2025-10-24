@@ -11,14 +11,11 @@ profiles:
     image: image.png
     content: simeng.md
     image_circular: false # crops the image to make it circular
-    width: 80
-    height: 80
     
   - align: right
     image: hao.png
     content: haolong.md
     image_circular: false # crops the image to make it circular
-    <img src="hao.png" width="80" height="80" style="border-radius: 0%;" align="right">
     
   - align: left
     # image: prof_pic.jpg
