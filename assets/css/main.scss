@@ -19,4 +19,12 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
-
+.profile img,
+.profile .img-fluid {
+  width: 80px !important;      
+  height: 80px !important;
+  object-fit: cover;           
+  border-radius: 50% !important;
+  display: block;
+  margin: 0 auto;
+}
