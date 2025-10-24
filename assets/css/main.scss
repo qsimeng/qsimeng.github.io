@@ -19,16 +19,14 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
-.profile img,
-.profile .img-fluid {
-  width: 100px !important;      
-  height: 100px !important;
-  object-fit: cover;           
-  border-radius: 0 !important;
-  display: block;
-  margin: 0 auto;
-}
 
-.layout--profiles hr {
-  display: none !important;
+body.layout--profiles .profile img,
+body.layout--profiles .profile .img-fluid {
+  width: 100px !important;      /* 你想要的尺寸 */
+  height: 100px !important;
+  max-width: none !important;    /* 盖掉 .img-fluid 的 max-width:100% */
+  object-fit: cover;
+  border-radius: 50% !important; /* 要方形改成 0 */
+  display: block;
+  margin: 0;
 }
