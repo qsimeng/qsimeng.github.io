@@ -22,8 +22,8 @@ $max-content-width: {{ site.max_width }};
 .layout--profiles .profile-image,
 .page-content.profiles .profile-image,
 .profile-image {
-  width: 130px !important;  
-  height: 130px !important; 
+  width: 80px !important;  
+  height: 80px !important; 
   object-fit: cover;        
   border-radius: 50%;     
   margin: auto;
