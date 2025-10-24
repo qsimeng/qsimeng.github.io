@@ -18,3 +18,14 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+
+/* === Custom overrides === */
+.profile-image,
+.team-member img,
+img.profile-pic {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: cover;
+  border-radius: 0 !important; 
+}
