@@ -1,4 +1,4 @@
-Group Leader: Simeng Qiu
+[Simeng Qiu](https://qsimeng.github.io/)
 
 Lecturer in Computational Imaging, Swansea University, UK, since 2024.
 
