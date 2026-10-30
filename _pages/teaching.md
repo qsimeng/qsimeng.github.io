@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Taught Modules
+description: Co-taught with Dr Alma Rahat, now at Loughborough University, UK.
 nav: true
 nav_order: 5
 ---
