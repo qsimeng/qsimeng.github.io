@@ -11,8 +11,6 @@ nav_order: 5
 Co-taught with [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), now at Loughborough University, UK. 
 </div>
 
-Co-taught with [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), now at Loughborough University, UK.
-
 #### CS-165 Introduction to Data Science
 
 <div style="text-align: justify;">
