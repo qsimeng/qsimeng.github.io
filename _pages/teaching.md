@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Taught Modules
+description: Co-taught with Dr Alma Rahat, now at Loughborough University, UK. 
 nav: true
 nav_order: 5
 ---
@@ -21,10 +21,6 @@ We live in the age of data: it is ubiquitous in modern life. However, data in it
 
 <div style="text-align: justify;">
 This module offers a comprehensive overview of optimisation techniques, beginning with fundamental mathematics and progressing through basic and stochastic search strategies, including Gradient Descent, Random Search, Grid Search, and Simulated Annealing. Students will learn about constraint handling with penalties, mathematical programming, and critically evaluate contemporary research. The curriculum covers evolutionary algorithms such as Genetic Algorithms and Genetic Programming, addresses multi-objective problems and decision-making, and explores graph problems with Ant Colony Optimisation. The module also also covers human factors and ethical considerations in optimisation, preparing students for advanced research or professional practice in the field.
-
-Co-taught with Dr Alma Rahat, now at Loughborough University, UK. 
-
-
 
 </div>
 
