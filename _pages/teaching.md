@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 
-Co-taught with [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), an expert in Data Science & Decision Intelligence, now at [Loughborough University](https://www.lboro.ac.uk/), UK. 
+Co-taught with [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), an expert in Data Science, now at [Loughborough University](https://www.lboro.ac.uk/), UK. 
 
 
 #### CS-165 Introduction to Data Science
