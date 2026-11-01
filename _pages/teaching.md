@@ -2,12 +2,14 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Co-taught with Dr Alma Rahat, now at Loughborough University, UK. 
+description: Taught Modules 
 nav: true
 nav_order: 5
 ---
 
-Co-taught with [Dr Alma Rahat, now at Loughborough University](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), UK. 
+
+Co-taught with [Dr Alma Rahat](https://www.lboro.ac.uk/departments/compsci/staff/alma-rahat/), now at Loughborough University, UK. 
+
 
 #### CS-165 Introduction to Data Science
 
