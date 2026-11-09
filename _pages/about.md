@@ -25,15 +25,16 @@ I am always seeking enthusiastic PhD students, Master's students, and visiting s
 
 ##### Grants Awarded: 
 
-PI: [Higher Education Research Capital (HERC) - Capital Equipment](https://www.medr.cymru/en/News/medr-2026-46-higher-education-research-capital-herc-fund/), 2024.
+PI: [Levelling Up: Computer Science](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/), 2026 - 2028.
 
 PI: Horizon Support Funding from Research Wales Innovation Funding (RWIF), 2025.
 
-PI: [Levelling Up: Computer Science](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/), 2026 - 2028.
+PI: [Higher Education Research Capital (HERC) - Capital Equipment](https://www.medr.cymru/en/News/medr-2026-46-higher-education-research-capital-herc-fund/), 2024.
+
+Co-PI: [Risk Summer school 2025](https://risk.univ-grenoble-alpes.fr/en/news/risk-summer-school-2025-data-decision-making-under-conditions-uncertainty) from [British Council](https://www.britishcouncil.org/), 2025.
 
 Co-PI: [Surfing Performance Analysis with AI, funded by SportTrack.ai](https://www.sporttrack.ai/surfing/), 2025.
 
-Co-PI: [Risk Summer school 2025](https://risk.univ-grenoble-alpes.fr/en/news/risk-summer-school-2025-data-decision-making-under-conditions-uncertainty) from [British Council](https://www.britishcouncil.org/), 2025.
 
 
 ---
