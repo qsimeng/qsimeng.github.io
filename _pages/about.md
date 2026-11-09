@@ -27,7 +27,7 @@ I am always seeking enthusiastic PhD students, Master's students, and visiting s
 
 PI: [Higher Education Research Capital (HERC) - Capital Equipment](https://www.medr.cymru/en/News/medr-2026-46-higher-education-research-capital-herc-fund/), 2024.
 
-PI: [Levelling Up: Computer Science 2026 - 2028](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/).
+PI: [Levelling Up: Computer Science](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/), 2026 - 2028.
 
 Co-PI: [Surfing Performance Analysis with AI, funded by SportTrack.ai](https://www.sporttrack.ai/surfing/), 2025.
 
