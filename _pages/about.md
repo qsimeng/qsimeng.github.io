@@ -23,7 +23,7 @@ I am always seeking enthusiastic PhD students, Master's students, and visiting s
 
 ---
 
-#### Grants Awarded: 
+##### Grants Awarded: 
 
 PI: [Higher Education Research Capital (HERC) - Capital Equipment](https://www.medr.cymru/en/News/medr-2026-46-higher-education-research-capital-herc-fund/), 2024.
 
@@ -38,7 +38,7 @@ Co-PI: [Risk Summer school 2025](https://risk.univ-grenoble-alpes.fr/en/news/ris
 
 ---
 
-#### Administrative Roles:
+##### Administrative Roles:
 
 Leader of [WiMACS Group](https://qsimeng.github.io/wimcs-site/).
 
