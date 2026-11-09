@@ -33,7 +33,7 @@ PI: [Higher Education Research Capital (HERC) - Capital Equipment](https://www.m
 
 Co-PI: [Risk Summer school 2025](https://risk.univ-grenoble-alpes.fr/en/news/risk-summer-school-2025-data-decision-making-under-conditions-uncertainty) from [British Council](https://www.britishcouncil.org/), 2025.
 
-Co-PI: [Surfing Performance Analysis with AI, funded by SportTrack.ai](https://www.sporttrack.ai/surfing/), 2025.
+Co-PI: [Surfing Performance Analysis using AI, funded by SportTrack.ai](https://www.sporttrack.ai/surfing/), 2025.
 
 
 
