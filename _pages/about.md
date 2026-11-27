@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
   
 I am a [Lecturer in Computational Imaging](https://www.swansea.ac.uk/staff/simeng.qiu/) at Swansea University in the UK, a Fellow of the Higher Education Academy (FHEA) and hold a PGCert in Teaching in Higher Education. 
 
-After earning two Bachelor's Degrees from Harbin Institute of Technology and the University of Birmingham in 2016, I joined [Professor Wolfgang Heidrich's](https://scholar.google.com/citations?user=IQSbom0AAAAJ&hl=en) [Computational Imaging Group](https://vccimaging.org/People/heidriw/) at KAUST and received my PhD degree in December 2023. My research focuses on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and deep learning. It involves co-designing hardware and software for solving complex imaging problems.
+After earning two Bachelor's Degrees from Harbin Institute of Technology and the University of Birmingham in 2016, I joined [Professor Wolfgang Heidrich's](https://scholar.google.com/citations?user=IQSbom0AAAAJ&hl=en) [Computational Imaging Group](https://vccimaging.org/People/heidriw/) at KAUST and received my PhD degree in December 2023. 
 
-I am always seeking enthusiastic PhD students, Master's students, and visiting scholars who are motivated to work on Computational Imaging, Computer Vision, Computer Graphics or related fields. Please send me your CV to join my group or contact me if you need assistance within my research area.
+My research focuses on computational imaging, an interdisciplinary field that integrates methods from computer vision, computer graphics, image processing, inverse problems, optics, and deep learning. It involves co-designing hardware and software for solving complex imaging problems. I am always seeking enthusiastic PhD students, Master's students, and visiting scholars who are motivated to work on Computational Imaging, Computer Vision, Computer Graphics or related fields. Please send me your CV to join my group or contact me if you need assistance within my research area.
 
 ---
 
