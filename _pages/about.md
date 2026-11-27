@@ -47,7 +47,7 @@ Leader of [Women in Mathematics and Computer Science (WiMACS)](https://qsimeng.g
 
 Leader of [Levelling Up: Computer Science 2026 - 2028](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/).
 
-Leader of Learning Demonstrators Allocation for the School of Mathematics and Computer Science.
+Leader of Learning Demonstrators Allocation for the [School of Mathematics and Computer Science](https://www.swansea.ac.uk/science-and-engineering/maths-comp-sci/).
 
 Core Member of [Computer Science Research Energies (CORE)
 ](https://www.swansea.ac.uk/compsci/research-and-impact/computer-science-research-energies-core/).
