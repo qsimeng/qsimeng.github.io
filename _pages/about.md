@@ -43,7 +43,7 @@ Co-PI: [Surfing Performance Analysis using AI, funded by SportTrack.ai](https://
 
 ##### Administrative Roles:
 
-Leader of [WiMACS Group](https://qsimeng.github.io/wimacs/).
+Leader of [Women in Mathematics and Computer Science (WiMACS)](https://qsimeng.github.io/wimacs/).
 
 Leader of [Levelling Up: Computer Science 2026 - 2028](https://www.bcs.org/deliver-and-teach-qualifications/teachers-schools-and-colleges/levelling-up-computer-science/).
 
