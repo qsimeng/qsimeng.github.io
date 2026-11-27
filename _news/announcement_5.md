@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be giving a poster presentation at [ICCP 2022](https://iccp2022.iccp-conference.org/) in [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology)), Pasadena, USA.
+I will be giving a poster presentation at [ICCP 2022](https://iccp2022.iccp-conference.org/) in [Caltech](https://en.wikipedia.org/wiki/California_Institute_of_Technology), Pasadena, USA.
